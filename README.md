@@ -14,7 +14,7 @@
 
 - **Linguagens & Banco de Dados:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL).
 - **Visualização de Dados:** Tableau.
-- **Análise de Negócio:** Planejamento financeiro, acompanhamento de indicadores de desempenho, controle de custos e auditorias alinhadas a normas regulatórias e de qualidade.
+- **Análise de Negócio:** Acompanhamento de indicadores de desempenho, controle de custos e auditorias alinhadas a normas regulatórias e de qualidade.
 
 --- 
 
