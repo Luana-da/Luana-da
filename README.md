@@ -22,6 +22,9 @@
 
 Aqui estão os principais projetos desenvolvidos por mim durante o meu percurso na **TripleTen**:
 
+- [**Churn Analysis and Prediction in Gyms Using Data Science**](https://github.com/Luana-da/churn-analysis-and-prediction-in-gyms-using-data-science/tree/main):
+  Estudo de análise de dados voltado à identificação e previsão de churn de clientes em uma academia norte-americana.
+
 - [**Business Analysis in the Los Angeles Restaurant Market**](https://github.com/Luana-da/business-opportunity-analysis-in-the-Los-Angeles-restaurant-market):
   Análise exploratória de dados completa sobre o mercado de restaurantes em Los Angeles.
 
