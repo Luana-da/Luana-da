@@ -41,7 +41,7 @@ Aqui estão os principais projetos desenvolvidos por mim durante o meu percurso 
 
 🎓 **Formação & Especializações** 
 
-- **Data Analyst Bootcamp** – TripleTen (Em curso)
+- **Data Analyst Bootcamp** – TripleTen 
 - **Doutorado em Ciências Farmacêuticas** – Universidade Federal do Rio Grande do Sul (UFRGS)
 - **Pós-Graduação *Lato Sensu* em Análises Clínicas** - Faculdade UNYLEYA
 - **Mestrado em Ciências Farmacêuticas** - Universidade Federal do Pampa (UNIPAMPA)
